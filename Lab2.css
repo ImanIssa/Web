@@ -1,0 +1,30 @@
+
+body {
+    background-image: url('9.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+  }
+
+  
+  
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 24px;
+  }
+
+  ul#navlist {
+    position: absolute;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+   
+  }
+
+  ul#navlist li { display: inline; }
+
